@@ -74,7 +74,7 @@ Registeration Number :212221040007
 </androidx.constraintlayout.widget.ConstraintLayout>
 
 ## MAINACTIVITY.JAVA:
-
+```
 package com.example.gui;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -127,7 +127,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         return Color.rgb(red, green, blue);
     }
 }
-
+```
 ## OUTPUT :
 ![image](https://github.com/Agalya1525/Mobile-Application-Development/assets/136266932/4f5cddb3-a359-4207-a9c0-e40869fbd34e)
 ![image](https://github.com/Agalya1525/Mobile-Application-Development/assets/136266932/0f40ddb4-a384-4934-b71d-b69d84cd75f7)
