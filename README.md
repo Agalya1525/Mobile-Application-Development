@@ -23,7 +23,7 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 /*
-Program to print the text “Hello World”.
+Program to print the text “GUI Components”.
 Developed by:AGALYA.J
 Registeration Number :212221040007
 */
