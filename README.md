@@ -130,7 +130,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 ## OUTPUT :
 ![image](https://github.com/Agalya1525/Mobile-Application-Development/assets/136266932/4f5cddb3-a359-4207-a9c0-e40869fbd34e)
-![image](https://github.com/Agalya1525/Mobile-Application-Development/assets/136266932/2cf5f318-6152-45b5-af3d-a01b681a43f6)
+![image](https://github.com/Agalya1525/Mobile-Application-Development/assets/136266932/0f40ddb4-a384-4934-b71d-b69d84cd75f7)
+
 
 ## RESULT :
 Thus a Simple Android Application that uses GUI Components with Fonts and Colors using Android
